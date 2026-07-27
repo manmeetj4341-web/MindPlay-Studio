@@ -1,0 +1,6 @@
+{
+  "name": "MindPlay Studio",
+  "description": "Where Dry Theory Becomes Interactive Play - High-tech gamified STEM playground with real-time visualizers & sandboxes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
